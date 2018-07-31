@@ -29,7 +29,7 @@ var user = {
  })
  
  var id = 2;
-f
+
  app.delete('/deleteUser', function (req, res) {
  
     // First read existing users.
